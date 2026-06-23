@@ -38,7 +38,7 @@ Suggested repository structure:
 ├── README.md
 ├── webscraping.ipynb
 ├── webscraping.R
-└── Web Scraping.pdf
+└── webscraping.pdf
 ```
 
 ### Python Version
